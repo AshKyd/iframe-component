@@ -1,0 +1,11 @@
+{
+  "name": "iframe-component",
+  "version": "1.0.0",
+  "description": "Small module for creating & managing generated content iframe sandboxes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ash Kyd <ash@kyd.com.au> (http://ash.ms/)",
+  "license": "ISC"
+}
