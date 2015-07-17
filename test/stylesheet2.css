@@ -1,0 +1,5 @@
+div:before{
+	content:"stylesheet2.css loaded";
+	color:white;
+	background: darkgreen;
+}
